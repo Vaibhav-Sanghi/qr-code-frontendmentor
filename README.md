@@ -6,6 +6,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./result.png)
 
+## Links
+
+- Live site: [here](https://vaibhav-sanghi.github.io/qr-code-frontendmentor/)
+
 ## Built with
 
 - HTML
